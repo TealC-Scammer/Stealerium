@@ -2,6 +2,10 @@
   BE CAREFUL! THIS GUY IS A SCAMMER >>>> @BE CAREFUL! <a href="https://t.me/Teal_c">Teal_c</a>/<a href="https://github.com/kgnfth">kgnfth</a> IS A SCAMMER!
 </p>
 
+<a href="https://www.youtube.com/watch?v=vrjK5vZWNl8">PROOF OF SCAM: https://www.youtube.com/watch?v=vrjK5vZWNl8</a>
+<a href="https://www.youtube.com/watch?v=vrjK5vZWNl8">PROOF OF SCAM: https://www.youtube.com/watch?v=vrjK5vZWNl8</a>
+<a href="https://www.youtube.com/watch?v=vrjK5vZWNl8">PROOF OF SCAM: https://www.youtube.com/watch?v=vrjK5vZWNl8</a>
+<a href="https://www.youtube.com/watch?v=vrjK5vZWNl8">PROOF OF SCAM: https://www.youtube.com/watch?v=vrjK5vZWNl8</a>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73314940/227033966-765bde5a-438d-4b97-844b-f70c67ac6352.jpg"><br>
