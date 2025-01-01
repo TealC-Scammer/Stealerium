@@ -1,5 +1,5 @@
 <p align="center">
-  BE CAREFUL! THIS GUY IS A SCAMMER >>>> @<a href="https://t.me/Teal_c">Teal_c</a>
+  BE CAREFUL! THIS GUY IS A SCAMMER >>>> @BE CAREFUL! <a href="https://t.me/Teal_c">Teal_c</a>/<a href="https://github.com/kgnfth">kgnfth</a> IS A SCAMMER!
 </p>
 
 
@@ -15,14 +15,14 @@
   </a>
 </p>
 
-BE CAREFUL! <a href="https://t.me/Teal_c">Teal_c</a>/<a href="https://t.me/kgnfth">kgnfth</a> IS A SCAMMER!
+BE CAREFUL! <a href="https://t.me/Teal_c">Teal_c</a>/<a href="https://github.com/kgnfth">kgnfth</a> IS A SCAMMER!
 ## 🚧 Disclaimer
 
 <p align="center">This program is intended for educational purposes only.<br>
 Your use of this program is at your own responsibility.<br>
 The author will not be held liable for any illegal activities.</p>
 
-BE CAREFUL! <a href="https://t.me/Teal_c">Teal_c</a>/<a href="https://t.me/kgnfth">kgnfth</a> IS A SCAMMER!
+BE CAREFUL! <a href="https://t.me/Teal_c">Teal_c</a>/<a href="https://github.com/kgnfth">kgnfth</a> IS A SCAMMER!
 ## 🔍 Data Extraction
 
 - [x] AntiAnalysis (VirtualBox, SandBox, Debugger, VirusTotal, Any.Run)
@@ -54,7 +54,7 @@ BE CAREFUL! <a href="https://t.me/Teal_c">Teal_c</a>/<a href="https://t.me/kgnft
 - [x] Product Key
 - [x] Autorun Module
 
-BE CAREFUL! <a href="https://t.me/Teal_c">Teal_c</a>/<a href="https://t.me/kgnfth">kgnfth</a> IS A SCAMMER!
+BE CAREFUL! <a href="https://t.me/Teal_c">Teal_c</a>/<a href="https://github.com/kgnfth">kgnfth</a> IS A SCAMMER!
 ## 🔥 Features
 
 These functions are available in the builder only if autorun is enabled:
@@ -63,7 +63,7 @@ These functions are available in the builder only if autorun is enabled:
 - **📋 Clipper:** Engages and alters crypto wallet addresses in the clipboard during transactions.
 - **📷 Webcam Screenshots:** Captured if the user views inappropriate content online.
 
-BE CAREFUL! <a href="https://t.me/Teal_c">Teal_c</a>/<a href="https://t.me/kgnfth">kgnfth</a> IS A SCAMMER!
+BE CAREFUL! <a href="https://t.me/Teal_c">Teal_c</a>/<a href="https://github.com/kgnfth">kgnfth</a> IS A SCAMMER!
 ## 🔨 Builder
 - Temporarly disable your Antivirus
 - Download Stealerium.zip from https://github.com/Stealerium/Stealerium/releases and extract the zip content to a deseired folder.
@@ -75,11 +75,11 @@ BE CAREFUL! <a href="https://t.me/Teal_c">Teal_c</a>/<a href="https://t.me/kgnft
 - Hit Build and enjoy!
 <img width="600" alt="BuilderGUI" src="https://github.com/user-attachments/assets/db056797-cbae-4e04-a18a-32d27f2ade01">
 
-BE CAREFUL! <a href="https://t.me/Teal_c">Teal_c</a>/<a href="https://t.me/kgnfth">kgnfth</a> IS A SCAMMER!
+BE CAREFUL! <a href="https://t.me/Teal_c">Teal_c</a>/<a href="https://github.com/kgnfth">kgnfth</a> IS A SCAMMER!
 ## 📢 Channel Webhook
 <img width="600" src="https://user-images.githubusercontent.com/73314940/165986700-8109a5ab-a1e1-4e50-8e91-90e72eb41af1.png">
 
-BE CAREFUL! <a href="https://t.me/Teal_c">Teal_c</a>/<a href="https://t.me/kgnfth">kgnfth</a> IS A SCAMMER!
+BE CAREFUL! <a href="https://t.me/Teal_c">Teal_c</a>/<a href="https://github.com/kgnfth">kgnfth</a> IS A SCAMMER!
 ## Requirements
 
 To build from source, you'll need:
@@ -88,7 +88,7 @@ To build from source, you'll need:
 - [.NET SDK 6.0.\*](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) (included with Visual Studio 2022)
 - [.NET Framework SDK 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48) (included with Visual Studio 2022)
 
-BE CAREFUL! <a href="https://t.me/Teal_c">Teal_c</a>/<a href="https://t.me/kgnfth">kgnfth</a> IS A SCAMMER!
+BE CAREFUL! <a href="https://t.me/Teal_c">Teal_c</a>/<a href="https://github.com/kgnfth">kgnfth</a> IS A SCAMMER!
 ## Runtime Requirements
 
 Required if you download the release from [Releases](https://github.com/Stealerium/Stealerium/releases):
